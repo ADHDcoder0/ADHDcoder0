@@ -1,191 +1,164 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C6FF&height=180&section=header&text=Kushagra&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Systems%20%2B%20Low-Latency%20Engineering&descAlignY=54&descSize=18" width="100%" />
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=520&lines=B.Tech+IT+%40+KIIT+University;C%2B%2B+%E2%80%A2+Kotlin+%E2%80%A2+Low-Latency+Systems;Building+toward+HFT+%2F+Systems+Engineering;Physics+Engines%2C+DSA%2C+and+Android+Apps" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=4&width=100%" width="100%" />
 
-<br/>
+```
+$ whoami
+```
 
-<!-- Add your own links here, e.g.:
-<a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
--->
-<a href="https://github.com/ADHDcoder0?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+# Kushagra
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=39FF14&center=true&vCenter=true&width=560&lines=B.Tech+IT+%40+KIIT+University;grinding+toward+systems+%2F+HFT+roles;C%2B%2B+low-latency+%E2%80%A2+Kotlin+%E2%80%A2+Spring;currently%3A+building+a+physics+engine+from+scratch" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=ADHDcoder0&label=Profile%20Views&color=00C6FF&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/ADHDcoder0?label=Followers&style=flat-square&color=00C6FF&labelColor=1a1b27" alt="Followers" />
-<img src="https://img.shields.io/badge/Org-IoT%20Lab%20KIIT-00C6FF?style=flat-square&labelColor=1a1b27" alt="IoT Lab KIIT" />
+<a href="https://www.linkedin.com/in/kushagra-it/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=39FF14" /></a>
+<a href="mailto:kushagra.error@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=39FF14" /></a>
+<a href="https://www.instagram.com/itz_k_24.20/"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=flat-square&logo=instagram&logoColor=39FF14" /></a>
+<a href="https://github.com/ADHDcoder0?tab=repositories"><img src="https://img.shields.io/badge/REPOS-000000?style=flat-square&logo=github&logoColor=39FF14" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=ADHDcoder0&label=views&color=000000&style=flat-square" />
+<img src="https://img.shields.io/github/followers/ADHDcoder0?label=followers&style=flat-square&color=000000&labelColor=000000" />
 
 </div>
 
----
+<br/>
 
-## 👋 About Me
+```
+$ cat about.md
+```
 
-I'm a B.Tech IT student at **KIIT University**, working systematically toward **systems engineering and HFT roles** — the kind of work at firms like Jane Street, Citadel, and Jump Trading.
-
-- ⚙️ Currently building **FORGE**, a 2D→3D physics engine from scratch in C++
-- 📱 Shipping local-first Android apps — **DailyZen** (wellness tracking) and **Luna** (period/mood tracking)
-- 🧮 Grinding **DSA/competitive programming** toward Codeforces Expert and CodeChef 4★
-- 🗺️ Following a 12-month technical roadmap (**THE ARC**) — Spring, DevOps, low-latency C++, and math-to-code fundamentals
-
-<details>
-<summary><b>🎯 More about how I work →</b></summary>
+I'm a B.Tech IT student at **KIIT University**, building systematically toward **systems engineering and HFT** — the kind of work at firms like Jane Street, Citadel, and Jump Trading. I treat skill-building as an optimization problem: pick the target, break it into phases, grind the fundamentals until they're automatic.
 
 <br/>
 
-I treat skill-building the way I'd treat any optimization problem: define the target, break it into phases, and grind the fundamentals until they're automatic.
+```
+$ cat now-building.md
+```
 
-| Phase | What I actually do |
-| :--- | :--- |
-| **1. Foundations** | Math-to-code parallel track — implement the theory, not just use the library |
-| **2. Build** | Ship real systems (physics engines, Android apps, APIs) end-to-end |
-| **3. Compete** | DSA and CP grind, contest by contest, to pressure-test the fundamentals |
-| **4. Iterate** | Review, refactor, and fold lessons back into the next phase |
+<table>
+<tr><td width="30%"><b>FORGE</b></td><td>C++ 2D→3D physics engine — SAT + sequential impulse → rigid body dynamics → GJK/EPA → dynamic BVH/SIMD</td></tr>
+<tr><td><b>THE ARC</b></td><td>12-month roadmap (Apr 2026 – Mar 2027): Spring + microservices → DevOps/K8s → Rust + low-latency C++</td></tr>
+<tr><td><b>DSA grind</b></td><td>Working toward Codeforces Expert and CodeChef 4★ alongside BNY Mellon interview prep</td></tr>
+</table>
 
-**What I'm looking for:** internships and projects in systems programming, low-latency engineering, or backend infrastructure.
+<br/>
 
-</details>
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-**Systems &amp; Low-Latency**
-
-<img src="https://skillicons.dev/icons?i=cpp,c,rust&perline=3" alt="Systems stack" />
-
-**Mobile**
-
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio&perline=2" alt="Mobile stack" />
-
-**Backend &amp; Web**
-
-<img src="https://skillicons.dev/icons?i=java,spring,go,nodejs,python&perline=5" alt="Backend stack" />
-
-**Tooling**
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,cmake&perline=5" alt="Tooling" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-> GitHub's own repo cards are currently unavailable, so these are hand-built and link straight to source.
+```
+$ ls stack/
+```
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="33%">
 
-### ⚙️ FORGE — Physics Engine
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-
-A **2D→3D physics engine** built from scratch in C++ — custom math library, SAT + sequential impulse collision resolution, rigid body dynamics, GJK/EPA, and a dynamic BVH with SIMD.
-
-**C++ · raylib · From-scratch math**
+**systems**
+<br/>
+<img src="https://skillicons.dev/icons?i=cpp,c,rust&theme=dark" />
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="33%">
 
-### 🌱 DailyZen
-<a href="https://github.com/ADHDcoder0/P1_DailyZen"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /></a>
-<img src="https://img.shields.io/github/last-commit/ADHDcoder0/P1_DailyZen?style=flat-square&color=00C6FF&labelColor=1a1b27" />
-
-A **local-first wellness tracker** for Android — built to keep habit and mood data on-device rather than in the cloud.
-
-**Kotlin · Android · Local-first**
-
-<a href="https://github.com/ADHDcoder0/P1_DailyZen"><b>View source →</b></a>
+**mobile**
+<br/>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" />
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td valign="top" width="33%">
 
-### 🌙 Luna
-<a href="https://github.com/ADHDcoder0/Luna"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /></a>
-<img src="https://img.shields.io/github/last-commit/ADHDcoder0/Luna?style=flat-square&color=00C6FF&labelColor=1a1b27" />
-
-A personal **period/mood tracking** Android app, focused on a clean, private, on-device experience.
-
-**Kotlin · Android**
-
-<a href="https://github.com/ADHDcoder0/Luna"><b>View source →</b></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🏆 LeagueView
-<a href="https://github.com/ADHDcoder0/LeagueView"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /></a>
-<img src="https://img.shields.io/github/last-commit/ADHDcoder0/LeagueView?style=flat-square&color=00C6FF&labelColor=1a1b27" />
-
-An Android app for tracking and viewing league/competition data.
-
-**Kotlin · Android**
-
-<a href="https://github.com/ADHDcoder0/LeagueView"><b>View source →</b></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🕹️ Browser History Simulation
-<a href="https://github.com/ADHDcoder0/browser_history_simulation"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /></a>
-<img src="https://img.shields.io/github/last-commit/ADHDcoder0/browser_history_simulation?style=flat-square&color=00C6FF&labelColor=1a1b27" />
-
-A C++ simulation of browser back/forward history navigation — a data-structures exercise built for correctness and clarity.
-
-**C++ · Data Structures**
-
-<a href="https://github.com/ADHDcoder0/browser_history_simulation"><b>View source →</b></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 👻 Horror Game
-<a href="https://github.com/ADHDcoder0/horrorgame"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /></a>
-<img src="https://img.shields.io/github/last-commit/ADHDcoder0/horrorgame?style=flat-square&color=00C6FF&labelColor=1a1b27" />
-
-A C++ horror game project — built to get hands-on with game loops, rendering, and real-time systems programming.
-
-**C++ · Game Dev**
-
-<a href="https://github.com/ADHDcoder0/horrorgame"><b>View source →</b></a>
+**backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,go,nodejs,python&theme=dark" />
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 📊 Git Vitals
+```
+$ ls projects/
+```
+
+<details open>
+<summary><b>⚙️ FORGE — physics engine</b></summary>
+<br/>
+
+From-scratch C++ physics engine. Custom math library (Vec/Mat/Quaternion) → 2D collision via SAT + sequential impulse → 3D rigid body → GJK/EPA narrow-phase → dynamic BVH with SIMD → raylib renderer.
+
+`C++` `raylib` `no external physics libs`
+
+</details>
+
+<details>
+<summary><b>🌱 DailyZen — local-first wellness tracker</b></summary>
+<br/>
+
+Android app that keeps habit and mood tracking on-device instead of in the cloud.
+
+`Kotlin` `Android` · <a href="https://github.com/ADHDcoder0/P1_DailyZen">source →</a>
+
+</details>
+
+<details>
+<summary><b>🌙 Luna — period/mood tracker</b></summary>
+<br/>
+
+A private, on-device Android app for period and mood tracking.
+
+`Kotlin` `Android` · <a href="https://github.com/ADHDcoder0/Luna">source →</a>
+
+</details>
+
+<details>
+<summary><b>🏆 LeagueView</b></summary>
+<br/>
+
+Android app for tracking and viewing league/competition data.
+
+`Kotlin` `Android` · <a href="https://github.com/ADHDcoder0/LeagueView">source →</a>
+
+</details>
+
+<details>
+<summary><b>🕹️ Browser History Simulation</b></summary>
+<br/>
+
+A C++ data-structures exercise simulating browser back/forward navigation.
+
+`C++` `Data Structures` · <a href="https://github.com/ADHDcoder0/browser_history_simulation">source →</a>
+
+</details>
+
+<details>
+<summary><b>👻 Horror Game</b></summary>
+<br/>
+
+C++ project built to get hands-on with game loops, rendering, and real-time systems programming.
+
+`C++` `Game Dev` · <a href="https://github.com/ADHDcoder0/horrorgame">source →</a>
+
+</details>
+
+<br/>
+
+```
+$ git log --stat
+```
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/ADHDcoder0?label=Followers&style=for-the-badge&color=00C6FF&labelColor=1a1b27&logo=github&logoColor=white" alt="Followers" />
-<img src="https://img.shields.io/github/stars/ADHDcoder0?label=Total%20Stars&style=for-the-badge&color=00C6FF&labelColor=1a1b27&logo=github&logoColor=white" alt="Total stars" />
-<img src="https://komarev.com/ghpvc/?username=ADHDcoder0&label=Profile%20Views&color=00C6FF&style=for-the-badge" alt="Profile views" />
+<img src="https://streak-stats.demolab.com?user=ADHDcoder0&theme=dark&hide_border=true&background=0D0D0D&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&sideNums=39FF14&dates=666666" width="70%" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ADHDcoder0&theme=tokyonight&hide_border=true&background=00000000&ring=00C6FF&fire=2C5364&currStreakLabel=00C6FF" alt="GitHub streak stats" width="70%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ADHDcoder0&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00C6FF&line=2C5364&point=00C6FF&area=true" alt="Contribution activity graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ADHDcoder0&theme=github-compact&hide_border=true&bg_color=0D0D0D&color=39FF14&line=39FF14&point=39FF14&area=true&area_color=39FF14" width="100%" />
 
 </div>
 
----
+<br/>
 
-## 🐍 Watch the Snake Eat My Contributions
+```
+$ ./snake.sh --render
+```
 
 <div align="center">
 
@@ -195,24 +168,24 @@ A C++ horror game project — built to get hands-on with game loops, rendering, 
   <img src="https://raw.githubusercontent.com/ADHDcoder0/ADHDcoder0/main/assets/github-contribution-grid-snake.svg" alt="Snake eating my contribution graph" width="100%" />
 </picture>
 
-<sub>Auto-generated every 12 hours by <code>.github/workflows/snake.yml</code></sub>
+<sub>rebuilt every 12h by <code>.github/workflows/snake.yml</code></sub>
 
 </div>
 
----
+<br/>
+
+```
+$ echo $STATUS
+```
 
 <div align="center">
 
-## 🤝 Let's Build Something
+Open to internships and collaborative work in systems programming and low-latency engineering.
 
-Open to **internships** and **collaborative work** in systems programming and low-latency engineering.
-
-<a href="https://github.com/ADHDcoder0"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+<sub>"Make it work, make it right, make it fast." — Kent Beck</sub>
 
 <br/><br/>
 
-<i>"Make it work, make it right, make it fast."</i> — Kent Beck
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=4&width=100%" width="100%" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:2C5364,100:0F2027&height=120&section=footer" width="100%" />
