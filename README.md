@@ -30,7 +30,6 @@ I'm a B.Tech IT student at **KIIT University**, working systematically toward **
 - 📱 Shipping local-first Android apps — **DailyZen** (wellness tracking) and **Luna** (period/mood tracking)
 - 🧮 Grinding **DSA/competitive programming** toward Codeforces Expert and CodeChef 4★
 - 🗺️ Following a 12-month technical roadmap (**THE ARC**) — Spring, DevOps, low-latency C++, and math-to-code fundamentals
-- 🎯 Targeting BNY Mellon campus recruitment and long-term HFT systems roles
 
 <details>
 <summary><b>🎯 More about how I work →</b></summary>
