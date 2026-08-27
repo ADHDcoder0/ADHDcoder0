@@ -23,7 +23,7 @@
 
 ## 👋 About Me
 
-I'm a B.Tech IT student at **KIIT University**, working systematically toward **systems engineering and HFT roles** — the kind of work at firms like Jane Street, Citadel, and Jump Trading.
+I'm a B.Tech IT student at **KIIT University**, working systematically toward **systems engineering and HFT roles**.
 
 - ⚙️ Currently building **FORGE**, a 2D→3D physics engine from scratch in C++
 - 📱 Shipping local-first Android apps — **DailyZen** (wellness tracking) and **Luna** (period/mood tracking)
